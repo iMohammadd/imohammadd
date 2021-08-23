@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Mohammad</h3>
+<h3 title="hehehe"> Hello World 👋, I'm Mohammad</h3>
 
 <a href="https://www.linkedin.com/in/imohammadd">
   <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -6,13 +6,9 @@
 <a href="https://www.instagram.com/imohammadd/">
   <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/imohammadd">
-  <img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+<a href="https://t.me/imohammadd">
+  <img align="left" alt="Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-
-
-
 <br />
 <br />
 
@@ -23,7 +19,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m a Freelance Back End Developer.
+- 👨🏽‍💻 I’m a Freelance Back End Developer.  
 - 🌱 I’m most working with Laravel. 
 - 🤔 My interest lies in back end web development.
 - 💬 Ask me about anything, I love to answer!
