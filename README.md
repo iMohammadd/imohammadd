@@ -20,7 +20,7 @@
 
 ### I am a Freelance Backend Developer
 - 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning ReactJS and Godot Game Engin.
+- 🌱 I’m currently learning ReactJS and Godot Game Engine.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][instagram]
 - 🧗 I try to: Go beyond and push the bounds
