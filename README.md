@@ -6,9 +6,6 @@
 <a href="https://www.instagram.com/imohammadd/">
   <img align="left" alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/imohammadd/">
-  <img align="left" alt="Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://twitter.com/imohammadd">
   <img align="left" alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
